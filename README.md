@@ -9,6 +9,7 @@
 # DURATION: 6 WEEEKS
 
 # MENTOR:NEELA SANTOSH
+
 # 🛡️ File Integrity Checker
 
 This project implements a **File Integrity Checker** that monitors changes in files by calculating and comparing cryptographic hash values. It helps ensure file integrity by detecting modifications, additions, or deletions in a given directory.
